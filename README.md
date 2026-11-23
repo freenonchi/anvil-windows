@@ -20,11 +20,11 @@ Anvil checks this page when it starts and every few hours. If a newer version ex
 
 Settings and sessions live in `%APPDATA%\Anvil`, outside the install folder, so updating or uninstalling never touches them. API keys are kept in Windows Credential Manager. Before the first launch of a new version, Anvil copies your settings and sessions into a `backups` folder there and keeps the last three copies.
 
-## Credits and license
+## Credits
 
-Anvil for Windows is a port of [Anvil](https://github.com/deeeeone/Anvil) by deeeeone. The original design, the agent protocol and the way it works are theirs. The credits are also inside the app, in Settings, About.
+Anvil for Windows is a port of [Anvil](https://github.com/deeeeone/Anvil) by deeeeone. The original design, the agent protocol and the way it works are theirs. The credits are also inside the app, in the Credits button above Settings.
 
-It is released under the GNU Affero General Public License v3.0, the same license as the original. The license text is in [LICENSE](LICENSE).
+The source code is private.
 
 ## Problems
 
