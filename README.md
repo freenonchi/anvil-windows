@@ -1,3 +1,5 @@
+> **The source code is private for now.** It will stay private until Anvil for Windows is fully fleshed out, functional and a near 1:1 match with the macOS version. At that point the source will be released.
+
 # Anvil for Windows
 
 A coding agent for your own projects: it reads and edits code, runs commands and tests, and shows you every change as a diff before it lands. It works with almost any model, from free Gemini keys to local Ollama.
